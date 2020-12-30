@@ -1,0 +1,1084 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Vietnamese Localization</Name>
+    <Guid>85cc1095-6c4b-4e39-85f2-701f2674fd4c</Guid>
+    <ProjectGuid>4d9b983c-2767-4098-9884-6bcf7e1f487c</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Vietnamese Localization</Teaser>
+    <Description>Vietnamese Localization</Description>
+    <Authors>ThuyDX</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
+    <AssemblyName>Vietnamese</AssemblyName>
+    <RootNamespace>Vietnamese</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="UpdateDatabase"><File priority="1">Base/Assets/Text/LocalizationDatabase_Data.sql</File></UpdateDatabase><UpdateText id="VietnameseLocalization"><File>Base/Assets/Text/en_US/AdvisorText.xml</File><File>Base/Assets/Text/en_US/AncientRivalsScenario_Text.xml</File><File>Base/Assets/Text/en_US/Australia_PackageText.xml</File><File>Base/Assets/Text/en_US/Automation_Narration_Text.xml</File><File>Base/Assets/Text/en_US/Aztec_Montezuma_ConfigText.xml</File><File>Base/Assets/Text/en_US/Aztec_Montezuma_GameplayText.xml</File><File>Base/Assets/Text/en_US/Aztec_Montezuma_PackageText.xml</File><File>Base/Assets/Text/en_US/BalanceMaps_ConfigText.xml</File><File>Base/Assets/Text/en_US/BenchmarkText.xml</File><File>Base/Assets/Text/en_US/Buildings_Text.xml</File><File>Base/Assets/Text/en_US/Building_Huey_Teocalli_Text.xml</File><File>Base/Assets/Text/en_US/CitizenNames_Text.xml</File><File>Base/Assets/Text/en_US/CityNames_Text.xml</File><File>Base/Assets/Text/en_US/CityStatePicker_FrontEndText.xml</File><File>Base/Assets/Text/en_US/Civics_Text.xml</File><File>Base/Assets/Text/en_US/Civilizations_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Buildings_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_CityStates_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Civics_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Civilizations_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Concepts_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Districts_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Features_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Governments_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_GreatPeople_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Improvements_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Leaders_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Promotions_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Religions_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Resources_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Search_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Technologies_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Units_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Wonders_Text.xml</File><File>Base/Assets/Text/en_US/CivRoyaleScenario_FrontEndText.xml</File><File>Base/Assets/Text/en_US/CivRoyaleScenario_InGameText.xml</File><File>Base/Assets/Text/en_US/CivRoyaleScenario_PackageText.xml</File><File>Base/Assets/Text/en_US/ColdWarScenario_Text.xml</File><File>Base/Assets/Text/en_US/Combat_Text.xml</File><File>Base/Assets/Text/en_US/Credits.xml</File><File>Base/Assets/Text/en_US/CrossPlay_Text.xml</File><File>Base/Assets/Text/en_US/Difficulties_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyDeals_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyModifiers_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyNotifications_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyPanel_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Common_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_DeclareFriendship_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_DeclareWar_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Defeat_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Delegation_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Denounce_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Embassy_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_FirstMeet_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Greeting_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_KudosAndWarnings_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakeAlliance_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakeDeal_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakeDemand_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakePeace_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_OpenBorders_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Warning_Text.xml</File><File>Base/Assets/Text/en_US/Districts_Text.xml</File><File>Base/Assets/Text/en_US/EarthMaps_ConfigText.xml</File><File>Base/Assets/Text/en_US/Epic_Text.xml</File><File>Base/Assets/Text/en_US/Espionage_Text.xml</File><File>Base/Assets/Text/en_US/Expansion1_Credits.xml</File><File>Base/Assets/Text/en_US/Expansion1_PackageText.xml</File><File>Base/Assets/Text/en_US/Expansion2_Credits.xml</File><File>Base/Assets/Text/en_US/Expansion2_PackageText.xml</File><File>Base/Assets/Text/en_US/FeaturesAndTerrains_Text.xml</File><File>Base/Assets/Text/en_US/FrontEndText.xml</File><File>Base/Assets/Text/en_US/FrontEnd_PlayByCloud.xml</File><File>Base/Assets/Text/en_US/GameSummaries_Text.xml</File><File>Base/Assets/Text/en_US/Gossip_Text.xml</File><File>Base/Assets/Text/en_US/Grammar_Text.xml</File><File>Base/Assets/Text/en_US/GreatPeople_Text.xml</File><File>Base/Assets/Text/en_US/GreatWorks_Text.xml</File><File>Base/Assets/Text/en_US/Improvements_Text.xml</File><File>Base/Assets/Text/en_US/Indonesia_Khmer_PackageText.xml</File><File>Base/Assets/Text/en_US/InGameText.xml</File><File>Base/Assets/Text/en_US/InGame_PlayByCloud.xml</File><File>Base/Assets/Text/en_US/Leaders_Text.xml</File><File>Base/Assets/Text/en_US/Macedonia_Persia_PackageText.xml</File><File>Base/Assets/Text/en_US/Modifiers_Text.xml</File><File>Base/Assets/Text/en_US/MultiplayerFrontEndText.xml</File><File>Base/Assets/Text/en_US/My2KText.xml</File><File>Base/Assets/Text/en_US/NapoleonScenario_Text.xml</File><File>Base/Assets/Text/en_US/Notifications_Text.xml</File><File>Base/Assets/Text/en_US/Nubia_PackageText.xml</File><File>Base/Assets/Text/en_US/PiratesScenario_FrontEndText.xml</File><File>Base/Assets/Text/en_US/Poland_PackageText.xml</File><File>Base/Assets/Text/en_US/Projects_Text.xml</File><File>Base/Assets/Text/en_US/Promotions_Text.xml</File><File>Base/Assets/Text/en_US/Quests_Text.xml</File><File>Base/Assets/Text/en_US/Quotes_Text.xml</File><File>Base/Assets/Text/en_US/Religion_Text.xml</File><File>Base/Assets/Text/en_US/ReligiousCombatScenario_Text.xml</File><File>Base/Assets/Text/en_US/Routes_Text.xml</File><File>Base/Assets/Text/en_US/Technologies_Text.xml</File><File>Base/Assets/Text/en_US/Types_Text.xml</File><File>Base/Assets/Text/en_US/UI_Civilopedia_Text.xml</File><File>Base/Assets/Text/en_US/UI_EndGame_Text.xml</File><File>Base/Assets/Text/en_US/UI_GameSummaries_Text.xml</File><File>Base/Assets/Text/en_US/UI_Mods_Text.xml</File><File>Base/Assets/Text/en_US/UI_Options_Text.xml</File><File>Base/Assets/Text/en_US/UI_Technology_Text.xml</File><File>Base/Assets/Text/en_US/UnitNames_Text.xml</File><File>Base/Assets/Text/en_US/Units_Text.xml</File><File>Base/Assets/Text/en_US/Unit_Abilities_Text.xml</File><File>Base/Assets/Text/en_US/UserSetupWarning_Text.xml</File><File>Base/Assets/Text/en_US/Vikings_PackageText.xml</File><File>Base/Assets/Text/en_US/Wars_Text.xml</File><File>Base/Assets/Text/en_US/WorldBuilder_Text.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="UpdateDatabase"><File priority="1">Base/Assets/Text/LocalizationDatabase_Data.sql</File></UpdateDatabase><UpdateText id="VietnameseLocalization"><File>Base/Assets/Text/en_US/AdvisorText.xml</File><File>Base/Assets/Text/en_US/AncientRivalsScenario_Text.xml</File><File>Base/Assets/Text/en_US/Australia_PackageText.xml</File><File>Base/Assets/Text/en_US/Automation_Narration_Text.xml</File><File>Base/Assets/Text/en_US/Aztec_Montezuma_ConfigText.xml</File><File>Base/Assets/Text/en_US/Aztec_Montezuma_GameplayText.xml</File><File>Base/Assets/Text/en_US/Aztec_Montezuma_PackageText.xml</File><File>Base/Assets/Text/en_US/BalanceMaps_ConfigText.xml</File><File>Base/Assets/Text/en_US/BenchmarkText.xml</File><File>Base/Assets/Text/en_US/Buildings_Text.xml</File><File>Base/Assets/Text/en_US/Building_Huey_Teocalli_Text.xml</File><File>Base/Assets/Text/en_US/CitizenNames_Text.xml</File><File>Base/Assets/Text/en_US/CityNames_Text.xml</File><File>Base/Assets/Text/en_US/CityStatePicker_FrontEndText.xml</File><File>Base/Assets/Text/en_US/Civics_Text.xml</File><File>Base/Assets/Text/en_US/Civilizations_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Buildings_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_CityStates_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Civics_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Civilizations_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Concepts_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Districts_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Features_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Governments_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_GreatPeople_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Improvements_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Leaders_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Promotions_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Religions_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Resources_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Search_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Technologies_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Units_Text.xml</File><File>Base/Assets/Text/en_US/Civilopedia_Wonders_Text.xml</File><File>Base/Assets/Text/en_US/CivRoyaleScenario_FrontEndText.xml</File><File>Base/Assets/Text/en_US/CivRoyaleScenario_InGameText.xml</File><File>Base/Assets/Text/en_US/CivRoyaleScenario_PackageText.xml</File><File>Base/Assets/Text/en_US/ColdWarScenario_Text.xml</File><File>Base/Assets/Text/en_US/Combat_Text.xml</File><File>Base/Assets/Text/en_US/Credits.xml</File><File>Base/Assets/Text/en_US/CrossPlay_Text.xml</File><File>Base/Assets/Text/en_US/Difficulties_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyDeals_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyModifiers_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyNotifications_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyPanel_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Common_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_DeclareFriendship_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_DeclareWar_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Defeat_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Delegation_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Denounce_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Embassy_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_FirstMeet_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Greeting_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_KudosAndWarnings_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakeAlliance_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakeDeal_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakeDemand_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_MakePeace_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_OpenBorders_Text.xml</File><File>Base/Assets/Text/en_US/DiplomacyStatements_Warning_Text.xml</File><File>Base/Assets/Text/en_US/Districts_Text.xml</File><File>Base/Assets/Text/en_US/EarthMaps_ConfigText.xml</File><File>Base/Assets/Text/en_US/Epic_Text.xml</File><File>Base/Assets/Text/en_US/Espionage_Text.xml</File><File>Base/Assets/Text/en_US/Expansion1_Credits.xml</File><File>Base/Assets/Text/en_US/Expansion1_PackageText.xml</File><File>Base/Assets/Text/en_US/Expansion2_Credits.xml</File><File>Base/Assets/Text/en_US/Expansion2_PackageText.xml</File><File>Base/Assets/Text/en_US/FeaturesAndTerrains_Text.xml</File><File>Base/Assets/Text/en_US/FrontEndText.xml</File><File>Base/Assets/Text/en_US/FrontEnd_PlayByCloud.xml</File><File>Base/Assets/Text/en_US/GameSummaries_Text.xml</File><File>Base/Assets/Text/en_US/Gossip_Text.xml</File><File>Base/Assets/Text/en_US/Grammar_Text.xml</File><File>Base/Assets/Text/en_US/GreatPeople_Text.xml</File><File>Base/Assets/Text/en_US/GreatWorks_Text.xml</File><File>Base/Assets/Text/en_US/Improvements_Text.xml</File><File>Base/Assets/Text/en_US/Indonesia_Khmer_PackageText.xml</File><File>Base/Assets/Text/en_US/InGameText.xml</File><File>Base/Assets/Text/en_US/InGame_PlayByCloud.xml</File><File>Base/Assets/Text/en_US/Leaders_Text.xml</File><File>Base/Assets/Text/en_US/Macedonia_Persia_PackageText.xml</File><File>Base/Assets/Text/en_US/Modifiers_Text.xml</File><File>Base/Assets/Text/en_US/MultiplayerFrontEndText.xml</File><File>Base/Assets/Text/en_US/My2KText.xml</File><File>Base/Assets/Text/en_US/NapoleonScenario_Text.xml</File><File>Base/Assets/Text/en_US/Notifications_Text.xml</File><File>Base/Assets/Text/en_US/Nubia_PackageText.xml</File><File>Base/Assets/Text/en_US/PiratesScenario_FrontEndText.xml</File><File>Base/Assets/Text/en_US/Poland_PackageText.xml</File><File>Base/Assets/Text/en_US/Projects_Text.xml</File><File>Base/Assets/Text/en_US/Promotions_Text.xml</File><File>Base/Assets/Text/en_US/Quests_Text.xml</File><File>Base/Assets/Text/en_US/Quotes_Text.xml</File><File>Base/Assets/Text/en_US/Religion_Text.xml</File><File>Base/Assets/Text/en_US/ReligiousCombatScenario_Text.xml</File><File>Base/Assets/Text/en_US/Routes_Text.xml</File><File>Base/Assets/Text/en_US/Technologies_Text.xml</File><File>Base/Assets/Text/en_US/Types_Text.xml</File><File>Base/Assets/Text/en_US/UI_Civilopedia_Text.xml</File><File>Base/Assets/Text/en_US/UI_EndGame_Text.xml</File><File>Base/Assets/Text/en_US/UI_GameSummaries_Text.xml</File><File>Base/Assets/Text/en_US/UI_Mods_Text.xml</File><File>Base/Assets/Text/en_US/UI_Options_Text.xml</File><File>Base/Assets/Text/en_US/UI_Technology_Text.xml</File><File>Base/Assets/Text/en_US/UnitNames_Text.xml</File><File>Base/Assets/Text/en_US/Units_Text.xml</File><File>Base/Assets/Text/en_US/Unit_Abilities_Text.xml</File><File>Base/Assets/Text/en_US/UserSetupWarning_Text.xml</File><File>Base/Assets/Text/en_US/Vikings_PackageText.xml</File><File>Base/Assets/Text/en_US/Wars_Text.xml</File><File>Base/Assets/Text/en_US/WorldBuilder_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Vietnamese.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Base" />
+    <Folder Include="Base\Assets" />
+    <Folder Include="Base\Assets\Text" />
+    <Folder Include="Base\Assets\Text\en_US" />
+    <Folder Include="DLC" />
+    <Folder Include="DLC\AlexanderScenario" />
+    <Folder Include="DLC\AlexanderScenario\Text" />
+    <Folder Include="DLC\AlexanderScenario\Text\en_US" />
+    <Folder Include="DLC\Australia" />
+    <Folder Include="DLC\AustraliaScenario" />
+    <Folder Include="DLC\AustraliaScenario\Text\" />
+    <Folder Include="DLC\AustraliaScenario\Text\en_US\" />
+    <Folder Include="DLC\Australia\Text\" />
+    <Folder Include="DLC\Australia\Text\en_US\" />
+    <Folder Include="DLC\Babylon" />
+    <Folder Include="DLC\Babylon\Text\" />
+    <Folder Include="DLC\Babylon\Text\en_US\" />
+    <Folder Include="DLC\BlackDeathScenario" />
+    <Folder Include="DLC\BlackDeathScenario\Text\" />
+    <Folder Include="DLC\BlackDeathScenario\Text\en_US\" />
+    <Folder Include="DLC\Byzantium_Gaul" />
+    <Folder Include="DLC\Byzantium_Gaul\Text\" />
+    <Folder Include="DLC\Byzantium_Gaul\Text\en_US\" />
+    <Folder Include="DLC\CatherineDeMedici" />
+    <Folder Include="DLC\CatherineDeMedici\Text\" />
+    <Folder Include="DLC\CatherineDeMedici\Text\en_US\" />
+    <Folder Include="DLC\CivRoyaleScenario" />
+    <Folder Include="DLC\CivRoyaleScenario\Text\" />
+    <Folder Include="DLC\CivRoyaleScenario\Text\en_US\" />
+    <Folder Include="DLC\Ethiopia" />
+    <Folder Include="DLC\Ethiopia\Text\" />
+    <Folder Include="DLC\Ethiopia\Text\en_US\" />
+    <Folder Include="DLC\Expansion1" />
+    <Folder Include="DLC\Expansion1\Text\" />
+    <Folder Include="DLC\Expansion1\Text\en_US\" />
+    <Folder Include="DLC\Expansion2" />
+    <Folder Include="DLC\Expansion2\Text\" />
+    <Folder Include="DLC\Expansion2\Text\en_US\" />
+    <Folder Include="DLC\GranColombia_Maya" />
+    <Folder Include="DLC\GranColombia_Maya\Text\" />
+    <Folder Include="DLC\GranColombia_Maya\Text\en_US\" />
+    <Folder Include="DLC\Indonesia_Khmer" />
+    <Folder Include="DLC\Indonesia_KhmerScenario" />
+    <Folder Include="DLC\Indonesia_KhmerScenario\Text\" />
+    <Folder Include="DLC\Indonesia_KhmerScenario\Text\en_US\" />
+    <Folder Include="DLC\Indonesia_Khmer\Text\" />
+    <Folder Include="DLC\Indonesia_Khmer\Text\en_US\" />
+    <Folder Include="DLC\Macedonia_Persia" />
+    <Folder Include="DLC\Macedonia_Persia\Text\" />
+    <Folder Include="DLC\Macedonia_Persia\Text\en_US\" />
+    <Folder Include="DLC\NubiaScenario\Text\" />
+    <Folder Include="DLC\NubiaScenario\Text\en_US\" />
+    <Folder Include="DLC\Nubia_Amanitore\Text\" />
+    <Folder Include="DLC\Nubia_Amanitore\Text\en_US\" />
+    <Folder Include="DLC\PiratesScenario\Text\" />
+    <Folder Include="DLC\PiratesScenario\Text\en_US\" />
+    <Folder Include="DLC\PolandScenario\Text\" />
+    <Folder Include="DLC\PolandScenario\Text\en_US\" />
+    <Folder Include="DLC\Poland_Jadwiga\Text\" />
+    <Folder Include="DLC\Poland_Jadwiga\Text\en_US\" />
+    <Folder Include="DLC\TeddyRoosevelt\Text\" />
+    <Folder Include="DLC\TeddyRoosevelt\Text\en_US\" />
+    <Folder Include="DLC\TreeRandomizer\Text\" />
+    <Folder Include="DLC\TreeRandomizer\Text\en_US\" />
+    <Folder Include="DLC\VikingsLandmarks\Text\" />
+    <Folder Include="DLC\VikingsLandmarks\Text\en_US\" />
+    <Folder Include="DLC\VikingsScenario\Text\" />
+    <Folder Include="DLC\VikingsScenario\Text\en_US\" />
+    <Folder Include="DLC\WarMachineScenario" />
+    <Folder Include="DLC\VikingsScenario" />
+    <Folder Include="DLC\VikingsLandmarks" />
+    <Folder Include="DLC\TreeRandomizer" />
+    <Folder Include="DLC\TeddyRoosevelt" />
+    <Folder Include="DLC\PolandScenario" />
+    <Folder Include="DLC\Poland_Jadwiga" />
+    <Folder Include="DLC\PiratesScenario" />
+    <Folder Include="DLC\NubiaScenario" />
+    <Folder Include="DLC\Nubia_Amanitore" />
+    <Folder Include="DLC\WarMachineScenario\Text\" />
+    <Folder Include="DLC\WarMachineScenario\Text\en_US\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Base/Assets/Text/en_US/AdvisorText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/AncientRivalsScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Australia_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Automation_Narration_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Aztec_Montezuma_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Aztec_Montezuma_GameplayText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Aztec_Montezuma_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/BalanceMaps_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/BenchmarkText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Building_Huey_Teocalli_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CitizenNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CityStatePicker_FrontEndText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civics_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilizations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_CityStates_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Civics_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Civilizations_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Concepts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Districts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Features_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Governments_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_GreatPeople_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Improvements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Promotions_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Religions_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Resources_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Search_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Technologies_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Units_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Civilopedia_Wonders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CivRoyaleScenario_FrontEndText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CivRoyaleScenario_InGameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CivRoyaleScenario_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/ColdWarScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Combat_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Credits.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/CrossPlay_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Difficulties_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyDeals_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyModifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyNotifications_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyPanel_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Common_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_DeclareFriendship_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_DeclareWar_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Defeat_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Delegation_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Denounce_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Embassy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_FirstMeet_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Greeting_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_KudosAndWarnings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_MakeAlliance_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_MakeDeal_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_MakeDemand_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_MakePeace_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_OpenBorders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/DiplomacyStatements_Warning_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Districts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/EarthMaps_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Epic_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Espionage_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Expansion1_Credits.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Expansion1_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Expansion2_Credits.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Expansion2_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/FeaturesAndTerrains_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/FrontEndText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/FrontEnd_PlayByCloud.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/GameSummaries_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Gossip_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Grammar_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/GreatPeople_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/GreatWorks_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Improvements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Indonesia_Khmer_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/InGameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/InGame_PlayByCloud.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Macedonia_Persia_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Modifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/MultiplayerFrontEndText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/My2KText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/NapoleonScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Notifications_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Nubia_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/PiratesScenario_FrontEndText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Poland_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Projects_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Promotions_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Quests_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Quotes_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Religion_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/ReligiousCombatScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Routes_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Technologies_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Types_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UI_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UI_EndGame_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UI_GameSummaries_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UI_Mods_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UI_Options_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UI_Technology_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UnitNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Units_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Unit_Abilities_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/UserSetupWarning_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Vikings_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/Wars_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Base/Assets/Text/en_US/WorldBuilder_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AlexanderScenario\Text\en_US\AlexanderScenario_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AlexanderScenario\Text\en_US\AlexanderScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AlexanderScenario\Text\en_US\AlexanderScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AustraliaScenario\Text\en_US\AustraliaScenario_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AustraliaScenario\Text\en_US\AustraliaScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AustraliaScenario\Text\en_US\AustraliaScenario_EventText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\AustraliaScenario\Text\en_US\AustraliaScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Australia\Text\en_US\Australia_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Australia\Text\en_US\Australia_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Australia\Text\en_US\Australia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_CitizenNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Diplomacy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_GreatPeople_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_GreatWorks_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Heroes_Civilopedia_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Heroes_Civilopedia_Text_XP1_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Heroes_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Heroes_Text_XP1_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Heroes_Text_XP2_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Improvements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Babylon\Text\en_US\Babylon_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\BlackDeathScenario\Text\en_US\BlackDeathScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\BlackDeathScenario\Text\en_US\BlackDeathScenario_GameplayText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_CitizenNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_Civilopedia_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_Diplomacy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_DramaticAges_AdvisorText_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_DramaticAges_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_Gameplay_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_NamedPlaces_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Byzantium_Gaul\Text\en_US\Byzantium_Gaul_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\CatherineDeMedici\Text\en_US\CatherineDeMedici_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\CatherineDeMedici\Text\en_US\CatherineDeMedici_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\CatherineDeMedici\Text\en_US\CatherineDeMedici_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\CatherineDeMedici\Text\en_US\CatherineDeMedici_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\CivRoyaleScenario\Text\en_US\CivRoyaleScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\CivRoyaleScenario\Text\en_US\CivRoyaleScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_CitizenNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_Civilopedia_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_Diplomacy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_Districts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_InGameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_NamedPlaces_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Ethiopia\Text\en_US\Ethiopia_SecretSocieties_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_AdvisorText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Agendas_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Agendas_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_CitizenNames_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_CityBanner_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_CityNames_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Civics_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Civilopedia_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_DiplomacyDeals_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_DiplomacyModifiers_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_DiplomacyModifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_DiplomacyStatements_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_DiplomacyStatements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Diplomacy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Districts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Eras_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Gossip_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_GreatPeople_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_HallofFame_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_InGameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_LoadingInfo_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Modifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Moments_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_NaturalWonders_Major_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Notifications_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Religion_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Technologies_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Units_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion1\Text\en_US\Expansion1_Wars_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_AdvisorText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Agendas_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_CityBanner_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Civics_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_DiplomacyDeals_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_DiplomacyModifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_DiplomacyStatements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Diplomacy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Districts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Eras_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Gossip_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_GreatPeople_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_HallofFame_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_InGameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Modifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Moments_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Notifications_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Religion_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Technologies_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Units_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion1_Wars_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_AdvisorText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Buildings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_CitizenNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Civics_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_CongressText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyDeals_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyModifiers_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyStatements_DeclareWar_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyStatements_Denounce_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyStatements_FirstMeet_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyStatements_KudosAndWarnings_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_DiplomacyStatements_Misc.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Districts_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_FeaturesAndTerrains_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Gossip_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_GreatPeople_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_HallofFame_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Improvements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_InGameText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_LoadingInfo_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Moments_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_NamedPlaces_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Notifications_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Promotions_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Quotes_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_RandomEvents_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Religion_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Routes_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Technologies_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_UnitNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Units_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Expansion2\Text\en_US\Expansion2_Unit_Abilities_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_AdvisorText_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_CitizenNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_CityNames_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Civilopedia_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Diplomacy_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_FeaturesResourcesTerrains_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Improvements_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_InGameText_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Leaders_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_NamedPlaces_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Notifications_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_RandomEvents_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Units_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\GranColombia_Maya\Text\en_US\GranColombia_Maya_Units_Text_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Indonesia_KhmerScenario\Text\en_US\Indonesia_KhmerScenario_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Indonesia_KhmerScenario\Text\en_US\Indonesia_KhmerScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Indonesia_KhmerScenario\Text\en_US\Indonesia_KhmerScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Indonesia_Khmer\Text\en_US\Indonesia_Khmer_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Indonesia_Khmer\Text\en_US\Indonesia_Khmer_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Indonesia_Khmer\Text\en_US\Indonesia_Khmer_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Macedonia_Persia\Text\en_US\Macedonia_Persia_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Macedonia_Persia\Text\en_US\Macedonia_Persia_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Macedonia_Persia\Text\en_US\Macedonia_Persia_GameplayText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\NubiaScenario\Text\en_US\NubiaScenario_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\NubiaScenario\Text\en_US\NubiaScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\NubiaScenario\Text\en_US\NubiaScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Nubia_Amanitore\Text\en_US\Nubia_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Nubia_Amanitore\Text\en_US\Nubia_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Nubia_Amanitore\Text\en_US\Nubia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\PiratesScenario\Text\en_US\PiratesScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\PiratesScenario\Text\en_US\PiratesScenario_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\PiratesScenario\Text\en_US\PiratesScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\PolandScenario\Text\en_US\PolandScenario_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\PolandScenario\Text\en_US\PolandScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\PolandScenario\Text\en_US\PolandScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Poland_Jadwiga\Text\en_US\Poland_Jadwiga_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\Poland_Jadwiga\Text\en_US\Poland_Jadwiga_GameplayText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TeddyRoosevelt\Text\en_US\TeddyRoosevelt_Civilopedia_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TeddyRoosevelt\Text\en_US\TeddyRoosevelt_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TeddyRoosevelt\Text\en_US\TeddyRoosevelt_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TeddyRoosevelt\Text\en_US\TeddyRoosevelt_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TreeRandomizer\Text\en_US\TreeRandomizer_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TreeRandomizer\Text\en_US\TreeRandomizer_InGameText_MODE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\TreeRandomizer\Text\en_US\TreeRandomizer_PackageText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\VikingsLandmarks\Text\en_US\VikingsLandmarks_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\VikingsLandmarks\Text\en_US\VikingsLandmarks_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\VikingsLandmarks\Text\en_US\VikingsLandmarks_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\VikingsScenario\Text\en_US\VikingsScenario_CivilopediaText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\VikingsScenario\Text\en_US\VikingsScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\VikingsScenario\Text\en_US\VikingsScenario_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\WarMachineScenario\Text\en_US\WarMachineScenario_ConfigText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="DLC\WarMachineScenario\Text\en_US\WarMachineScenario_GameplayText.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
