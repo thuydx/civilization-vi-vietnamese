@@ -14,3 +14,5 @@ INSERT INTO "EpicLanguages" VALUES('vi_VN','vi_VN');
 INSERT INTO "LanguagePriorities" VALUES('vi_VN','vi_VN',100);
 
 INSERT INTO "FontStyleSheets" VALUES('vi_VN','Civ6_FontStyles_EFIGS.xml', null, 'MinionPro-Medium.otf');
+
+INSERT INTO LocalizedText (Language, Tag, Text) VALUES ('vi_VN', 'TEST_VIETNAMESE', 'Kiểm tra tiếng việt');
