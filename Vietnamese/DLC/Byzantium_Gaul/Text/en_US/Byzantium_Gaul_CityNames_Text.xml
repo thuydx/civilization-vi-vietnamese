@@ -1,193 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- Byzantium Cities-->
-		<Row Tag="LOC_CITY_NAME_CONSTANTINOPLE">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CONSTANTINOPLE">
 			<Text>Constantinople</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_THESSALONICA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THESSALONICA">
 			<Text>Thessalonica</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ADRIANOPLE">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADRIANOPLE">
 			<Text>Adrianople</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NICAEA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NICAEA">
 			<Text>Nicaea</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ANTIOCH_BYZANTIUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANTIOCH_BYZANTIUM">
 			<Text>Antioch</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NICOMEDIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NICOMEDIA">
 			<Text>Nicomedia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TREBIZOND">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TREBIZOND">
 			<Text>Trebizond</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ANCYRA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANCYRA">
 			<Text>Ancyra</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_EDESSA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EDESSA">
 			<Text>Edessa</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SINOPE">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SINOPE">
 			<Text>Sinope</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AMASEIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMASEIA">
 			<Text>Amaseia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CHERSON">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHERSON">
 			<Text>Cherson</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DYRRACHIUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DYRRACHIUM">
 			<Text>Dyrrachium</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NICOPOLIS">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NICOPOLIS">
 			<Text>Nicopolis</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SELEUCIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SELEUCIA">
 			<Text>Seleucia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ICONIUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ICONIUM">
 			<Text>Iconium</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MELITENE">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MELITENE">
 			<Text>Melitene</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BARI">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BARI">
 			<Text>Bari</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DORYLAEUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DORYLAEUM">
 			<Text>Dorylaeum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AMORIUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AMORIUM">
 			<Text>Amorium</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KOLONEIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KOLONEIA">
 			<Text>Koloneia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TYANA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TYANA">
 			<Text>Tyana</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ATTALEA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ATTALEA">
 			<Text>Attalea</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SEBASTEIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEBASTEIA">
 			<Text>Sebasteia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_THEODOSIOPOLIS">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_THEODOSIOPOLIS">
 			<Text>Theodosiopolis</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MESEMBRIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MESEMBRIA">
 			<Text>Mesembria</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ARCADIOPOLIS">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ARCADIOPOLIS">
 			<Text>Arcadiopolis</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MOUNT_ATHOS">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MOUNT_ATHOS">
 			<Text>Mount Athos</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DORYSTOLON">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DORYSTOLON">
 			<Text>Dorystolon</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ZARA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ZARA">
 			<Text>Zara</Text>
-		</Row>
+		<Replace>
 		<!-- Gaul Cities-->
-		<Row Tag="LOC_CITY_NAME_ADUATUCA">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ADUATUCA">
 			<Text>Aduatuca</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BIBRAX">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BIBRAX">
 			<Text>Bibrax</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NOVIODUNUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NOVIODUNUM">
 			<Text>Noviodunum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SAMAROBRIVA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAMAROBRIVA">
 			<Text>Samarobriva</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DUROCORTERON">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DUROCORTERON">
 			<Text>Durocorteron</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_RATUMACOS">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RATUMACOS">
 			<Text>Ratumacos</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TERVANNA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TERVANNA">
 			<Text>Tervanna</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BAGACUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BAGACUM">
 			<Text>Bagacum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DIVODURUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DIVODURUM">
 			<Text>Divodurum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ALESIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALESIA">
 			<Text>Alesia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AVARICUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AVARICUM">
 			<Text>Avaricum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LISIEUX">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LISIEUX">
 			<Text>Lisieux</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LUTETIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUTETIA">
 			<Text>Lutetia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LUGUDUNON">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LUGUDUNON">
 			<Text>Lugudunon</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CENABUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CENABUM">
 			<Text>Cenabum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MELEDUNUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MELEDUNUM">
 			<Text>Meledunum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TURONES">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TURONES">
 			<Text>Turones</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AUTRICUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AUTRICUM">
 			<Text>Autricum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BIBRACTE">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BIBRACTE">
 			<Text>Bibracte</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DARIORITUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DARIORITUM">
 			<Text>Darioritum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_UXELLODUNUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UXELLODUNUM">
 			<Text>Uxellodunum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_GERGOVIA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GERGOVIA">
 			<Text>Gergovia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VESONTIO">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VESONTIO">
 			<Text>Vesontio</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BRENODURUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRENODURUM">
 			<Text>Brenodurum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CROCIATONUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CROCIATONUM">
 			<Text>Crociatonum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AGEDINCUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AGEDINCUM">
 			<Text>Agedincum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LIMONUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LIMONUM">
 			<Text>Limonum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ANDEMATUNNUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANDEMATUNNUM">
 			<Text>Andematunnum</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CONDATE">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CONDATE">
 			<Text>Condate</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_AREGENUA">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_AREGENUA">
 			<Text>Aregenua</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ANICIUM">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANICIUM">
 			<Text>Anicium</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_RUSCINO">
+		<Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RUSCINO">
 			<Text>Ruscino</Text>
-		</Row>
-	</EnglishText>
+		<Replace>
+	</LocalizedText>
 </GameData>
