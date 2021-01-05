@@ -4,13 +4,13 @@
 		<!-- Next Game button for CivRoyale endgame screen. -->
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUICK_JOIN">
 			<Text>Next Game</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUICK_JOIN_TOOLTIP">
 			<Text>Quick Join into a new Red Death game (Battle Royale)!</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_HOW_TO_PLAY">
 			<Text>How to play</Text>
-		<Replace>	
+		</Replace>	
 		
 		<!-- Do not put any more text in this file! -->
 		

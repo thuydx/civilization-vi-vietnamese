@@ -3,10 +3,10 @@
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_CREDITS_BACK_BUTTON">
 			<Text>Back</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CREDITS_BASEGAME">
 			<Text>Base Game</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CREDITS">
 			<Text>
 [3]CREDITS
@@ -1837,10 +1837,10 @@
 [2]3D Art Assets
 [3]Gameshastra Solutions Private Limited
 			</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRONTIER_CREDITS_NAME">
 			<Text>New Frontier Pass</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRONTIER_CREDITS">
 			<Text>
 [3]CREDITS
@@ -4200,7 +4200,7 @@
 [i]TechTree_Meter_Done
 
 			</Text>
-		<Replace>
+		</Replace>
 
 	</LocalizedText>
 </GameData>

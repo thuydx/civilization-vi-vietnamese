@@ -3,12 +3,12 @@
   <LocalizedText>
 		<Replace Language='en_US' Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
 			<Text>Teddy Roosevelt Persona Pack</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
 			<Text>Teddy Roosevelt (Bull Moose) and Teddy Roosevelt (Rough Rider) Personas</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
 			<Text>Contains Teddy Roosevelt (Bull Moose) and Teddy Roosevelt (Rough Rider) personas, each with their own unique look, ability, and play style.</Text>
-		<Replace>
+		</Replace>
   </LocalizedText>
 </GameData>

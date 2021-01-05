@@ -7,12 +7,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE">
 			<Text>Tech and Civic Shuffle Mode</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE">
 			<Text>Welcome</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1">
 			<Text>This game mode shuffles techs and civics within their historical eras, leading to different costs and prerequisites than normal. The resulting trees are the same for all players. Techs and civics are also hidden until a prerequisite is earned, preserving the mystery of discovery all the way until the end of the game.</Text>
-		<Replace>
+		</Replace>
 	</LocalizedText>
 </GameData>
