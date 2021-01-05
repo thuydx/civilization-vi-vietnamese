@@ -4,23 +4,23 @@
 		<!-- Named Rivers -->
 		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MEANDER_RIVER_NAME">
 			<Text>Meander River</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PRUT_RIVER_NAME">
 			<Text>Prut River</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AISNE_RIVER_NAME">
 			<Text>Aisne River</Text>
-		<Replace>
+		</Replace>
 		<!-- Named Mountains -->
 		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_EIFEL_MOUNTAINS_NAME">
 			<Text>Eifel Mountains</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CEVENNES_NAME">
 			<Text>Cévennes</Text>
-		<Replace>
+		</Replace>
 		<!-- Named Lakes -->
 		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NEUCHATEL_NAME">
 			<Text>Lake Neuchâtel</Text>
-		<Replace>
+		</Replace>
 	</LocalizedText>
 </GameData>

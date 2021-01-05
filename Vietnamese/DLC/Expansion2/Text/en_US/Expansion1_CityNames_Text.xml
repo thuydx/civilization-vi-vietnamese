@@ -4,9 +4,9 @@
 		<!-- City States -->
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANTIOCH">
 			<Text>Venice</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_BABYLON">
 			<Text>Anshan</Text>
-		<Replace>
+		</Replace>
 	</LocalizedText>
 </GameData>

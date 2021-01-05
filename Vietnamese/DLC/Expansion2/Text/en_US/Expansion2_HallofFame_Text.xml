@@ -4,41 +4,41 @@
 		<!-- Stats -->
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_DIPLOMATIC_FAVOR">
 			<Text>Diplomatic Favor</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_SCIENCE_VP">
 			<Text>Light Years Traveled</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_DIPLOMATIC_VP">
 			<Text>Diplomatic Victory Points Earned</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_CO2">
 			<Text>CO2 Emitted</Text>
-		<Replace>
+		</Replace>
 		<!-- Reports -->
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_DIPLOMATIC_FAVOR">
 			<Text>Diplomatic Favor</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_SCIENCE_VP">
 			<Text>Light Years Traveled</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_DIPLOMATIC_VP">
 			<Text>Diplomatic Victory Points</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CO2">
 			<Text>CO2 Emitted</Text>
-		<Replace>
+		</Replace>
 		<!-- Graphs -->
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_DIPLOMATIC_FAVOR">
 			<Text>Player Diplomatic Favor</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_SCIENCE_VP">
 			<Text>Light Years Traveled</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_DIPLOMATIC_VP">
 			<Text>Diplomatic Victory Points Earned</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CO2">
 			<Text>CO2 Emitted</Text>
-		<Replace>
+		</Replace>
 	</LocalizedText>
 </GameData>

@@ -3,12 +3,12 @@
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_TREE_RANDOMIZER_MOD_TITLE">
 			<Text>Tech and Civic Shuffle Game Mode</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TREE_RANDOMIZER_MOD_TEASER">
 			<Text>A game mode with randomized Tech and Civic Trees</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION">
 			<Text>Contains the Tech and Civic Shuffle game mode, with randomized Tech and Civic Trees.</Text>
-		<Replace>
+		</Replace>
 	</LocalizedText>
 </GameData>

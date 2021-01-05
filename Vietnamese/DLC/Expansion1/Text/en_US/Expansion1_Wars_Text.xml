@@ -3,15 +3,15 @@
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_GOLDEN_AGE_NAME">
 			<Text>Golden Age War</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_WAR_NAME">
 			<Text>Emergency War</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WAR_OF_RETRIBUTION_NAME">
 			<Text>War Of Retribution</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_IDEOLOGICAL_WAR_NAME">
 			<Text>Ideological War</Text>
-		<Replace>
+		</Replace>
 	</LocalizedText>
 </GameData>

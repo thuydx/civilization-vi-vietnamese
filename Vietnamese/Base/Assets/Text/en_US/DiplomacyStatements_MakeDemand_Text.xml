@@ -4,18 +4,18 @@
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_DIPLO_AI_REFUSE_DEMAND_ANY_ANY">
 			<Text>Making demands will get you nowhere.</Text>
-		<Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY">
 			<Text>I will comply.</Text>
-		<Replace>
+		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY">
 			<Text>You are wise in accepting my demands.</Text>
-		<Replace>
+		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_DIPLO_HUMAN_REFUSE_DEMAND_FROM_AI_ANY_ANY">
 			<Text>I may have to resort to other means to have my demands met!</Text>
-		<Replace>
+		</Replace>
 
 	</LocalizedText>
 </GameData>
