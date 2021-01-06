@@ -2,176 +2,176 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_TECHS">
-			<Text>Techs</Text>
+			<Text>Công nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_CIVICS">
-			<Text>Civics</Text>
+			<Text>Hành chính</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_CITIES">
-			<Text>Cities</Text>
+			<Text>Thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_UNITS">
-			<Text>Units</Text>
+			<Text>Đơn vị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_GENERAL">
-			<Text>General</Text>
+			<Text>Tổng hợp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Đặc khu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Kiến trúc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_MOD">
-			<Text>Dependencies</Text>
+			<Text>Phụ thuộc</Text>
 		</Replace>
 		
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TAB_TEXT">
-			<Text>Text</Text>
+			<Text>Văn bản</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
-			<Text>Add Player</Text>
+			<Text>Thêm người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
-			<Text>Add AI Player</Text>
+			<Text>Thêm máy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
-			<Text>Remove Player</Text>
+			<Text>Bỏ người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
-			<Text>Add City</Text>
+			<Text>Thêm thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
-			<Text>Remove City</Text>
+			<Text>Bỏ thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
-			<Text>Pillaged</Text>
+			<Text>Đã bị cướp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
-			<Text>Gold</Text>
+			<Text>Vàng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
-			<Text>Faith</Text>
+			<Text>Đức tin</Text>
 		</Replace>		
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
-			<Text>Garrison Damage</Text>
+			<Text>Thiệt hại Đồn Trú</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
-			<Text>Outer Damage</Text>
+			<Text>Thiệt hại bên ngoài</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
-			<Text>Population</Text>
+			<Text>Dân sô</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Địa hình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
-			<Text>Feature</Text>
+			<Text>Tính Năng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
-			<Text>Feature Rotation</Text>
+			<Text>Chuyển Đổi Tính Năng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
-			<Text>Resource</Text>
+			<Text>Tài nguyên</Text>
 		</Replace>		
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
-			<Text>Resource Amount</Text>
+			<Text>Lượng tài nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
-			<Text>Improvement</Text>
+			<Text>Công trình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
-			<Text>Improvement Pillaged</Text>
+			<Text>Công trình đã bị cướp</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT">
-      <Text>District</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT_PILLAGED">
-      <Text>District Pillaged</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT">
+			<Text>Đặc Khu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT_PILLAGED">
+			<Text>Đặc Khu Đã Bị Cướp</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
-			<Text>Route</Text>
+			<Text>Tuyến Đường</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
-			<Text>Route Pilaged</Text>
+			<Text>Tuyến Đường Đã Bị Cướp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
-			<Text>Owner</Text>
+			<Text>Chủ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_LOWLAND_TYPE">
-			<Text>Lowland Type</Text>
+			<Text>Loại Đất Trũng</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
-			<Text>Terrain</Text>
+			<Text>Địa hình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
-			<Text>Features</Text>
+			<Text>Tính chất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
-			<Text>Continent</Text>
+			<Text>Lục địa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
-			<Text>Rivers</Text>
+			<Text>Sông</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
-			<Text>Cliffs</Text>
+			<Text>Vách đá</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
-			<Text>Resources</Text>
+			<Text>Tài nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
-			<Text>Cities</Text>
+			<Text>Các thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Các Đặc Khu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Các kiến trúc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
-			<Text>Units</Text>
+			<Text>Các đơn vị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
-			<Text>Improvements</Text>
+			<Text>Các công trình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
-			<Text>Routes</Text>
+			<Text>Các tuyến đường</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
-			<Text>Start Positions</Text>
+			<Text>Vị trí bắt đầu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
-			<Text>Owner</Text>
+			<Text>Chủ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
-			<Text>Terrain Visibility</Text>
+			<Text>Hiển Thị Địa Hình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_GOODY_HUTS">
-			<Text>Tribal Villages</Text>
+			<Text>Bộ Lạc</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
-			<Text>Map Details and Text</Text>
+			<Text>Bộ chỉnh sửa bản đồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
-			<Text>Player Editor</Text>
+			<Text>Bộ chỉnh sửa người chơi</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
-			<Text>Left click to place, right click to remove, right click drag to paint. Press CTRL-Z to undo a placement, CTRL-Y to redo.</Text>
+			<Text>Nhấp chuột trái để đặt, nhấp chuột phải để xóa, nhấp chuột phải kéo để vẽ. Nhấn CTRL-Z để hoàn tác một vị trí, CTRL-Y để làm lại.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
-			<Text>No plot selected</Text>
+			<Text>Không có mảnh đất nào được chọn</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLACEMENT_TT">
-			<Text>Lets you paint the map</Text>
+			<Text>Cho phép bạn vẽ bản đồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_PLOT_TT">
-			<Text>Gives finer-grained control over each plot</Text>
+			<Text>Cung cấp khả năng kiểm soát chi tiết hơn đối với từng mảnh đất</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
@@ -179,320 +179,320 @@
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
-			<Text>Generate New ID...</Text>
+			<Text>Tạo ID mới...</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
-			<Text>Width</Text>
+			<Text>Chiều rộng</Text>
 		</Replace>
 		
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
-			<Text>Height</Text>
+			<Text>Chiều dài</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
-			<Text>Ruleset</Text>
+			<Text>Luật</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
-			<Text>Map Script</Text>
+			<Text>Tập lệnh bản đồ</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
-			<Text>Package Map as a Mod</Text>
+			<Text>Gói bản đồ này là một Mod</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
-			<Text>If checked, the World Builder map is a self-contained Mod and can be used as a Map Type when starting a game.  If not checked, the map is assumed to be used as part of a larger Mod.</Text>
+			<Text>Nếu được đánh dấu, bộ tạo thế giới tạo ra Mod bản đồ khép kín và chỉ có thể sử dụng như một Loại Bản Đồ khi bắt đầu trò chơi. Nếu không được đánh dấu, bản đồ được giả định sử dụng như một phần của Mod lớn hơn.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_MAP">
-			<Text>Reference Map</Text>
+			<Text>Bản Đồ Tham Khảo</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_ALPHA">
-			<Text>Reference Alpha</Text>
+			<Text>Tham Khảo Cơ Bản</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_MAP_LOADED">
-			<Text>Reference map loaded successfully</Text>
+			<Text>Tải bản đồ tham khảo thành công</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_MAP_NOT_FOUND">
-			<Text>Reference map file not found</Text>
+			<Text>Không tìm thấy tập tin bản đồ tham khảo</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RULESET_TT">
-			<Text>Sets what ruleset this map is made for.</Text>
+			<Text>Thiết lập luật cho bản đồ được tạo.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SCRIPT_TT">
-			<Text>Sets what LUA file to use to generate this map, if any.</Text>
+			<Text>Thiết lập tập tin LUA được dùng để tạo ra bản đồ, nếu có.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_MAP_TT">
-			<Text>Sets a PNG file to overlay translucently over World Builder's map.</Text>
+			<Text>Đặt tệp PNG để phủ mờ trên bản đồ của bộ Xây Dựng Bản Đồ Thế Giới.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_TT">
-			<Text>Sets how much you see of the overlay vs. the map.[NEWLINE]0.0 shows all map and no overlay, and 1.0 shows all overlay and no map.[NEWLINE]0.5 is the starting value.</Text>
+			<Text>Đặt mức độ bạn nhìn thấy của lớp phủ so với bản đồ. [NEWLINE] 0.0 hiển thị tất cả bản đồ và không có lớp phủ và 1.0 hiển thị tất cả lớp phủ và không có bản đồ. [NEWLINE] 0.5 là giá trị bắt đầu.</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_SET">
-			<Text>New reference map alpha set</Text>
+			<Text>Bộ thiết lập cơ bản cho bản đồ tham chiếu mới</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD">
-			<Text>Alpha must be between 0.0 and 1.0</Text>
+			<Text>Thông Số Cơ Bản phải có giá trị giữa 0.0 và 1.0</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD_2">
-			<Text>Alpha must be a number</Text>
+			<Text>Thông Số Cơ Bản phải là số</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
-			<Text>Untitled Map</Text>
+			<Text>Bản Đồ Không Tên</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
-			<Text>An Untitled Map made by World Builder</Text>
+			<Text>Bản Đồ Không Tên được tạo ra từ Bộ Xây Dựng Bản Đồ Thế Giới</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
-			<Text>Untitled Map Mod</Text>
+			<Text>Mod bản đồ không tên</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
-			<Text>A Map Mod made by World Builder</Text>
+			<Text>Một bản Mod bản đồ không tên được tạo ra từ Bộ Xây Dựng Bản Đồ Thế Giới</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ADD_BUTTON">
-			<Text>Add</Text>
+			<Text>Thêm</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
-			<Text>Remove</Text>
+			<Text>Xóa</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_FEATURE">
-			<Text>No Feature</Text>
+			<Text>Không Tính Năng</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_LOWLAND">
-			<Text>Not Coastal Lowland</Text>
+			<Text>Không Vùng Trũng hay Duyên Hải</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_CITY">
-			<Text>No City</Text>
+			<Text>Không Thành Phố</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DIRECTION">
-			<Text>No Direction</Text>
+			<Text>Không Phương Hướng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
-			<Text>Northeast</Text>
+			<Text>Đông Bắc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
-			<Text>East</Text>
+			<Text>Đông</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
-			<Text>Southeast</Text>
+			<Text>Đông Nam</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
-			<Text>Southwest</Text>
+			<Text>Tây Nam</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
-			<Text>West</Text>
+			<Text>Tây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
-			<Text>Northwest</Text>
+			<Text>Tây Bắc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_AUTO_FIT">
-			<Text>Auto Fit</Text>
+			<Text>Tự Động Phù Hợp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ROTATE_PLACEMENT_LEFT_TOOLTIP">
-			<Text>Turn placement rotation to the left</Text>
+			<Text>Đặt vị trí xoay sang bên trái</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ROTATE_PLACEMENT_RIGHT_TOOLTIP">
-			<Text>Turn placement rotation to the right</Text>
+			<Text>Đặt vị trí xoay sang bên phải</Text>
 		</Replace>
 
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_RESOURCE">
-			<Text>No Resource</Text>
+			<Text>Không Tài Nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
-			<Text>No Improvement</Text>
+			<Text>Không Công Trình</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DISTRICT">
-      <Text>No District</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_DISTRICT">
+			<Text>Không Đặc Khu</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NO_ROUTE">
-			<Text>No Route</Text>
+			<Text>Không Tuyến Đường</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_REVEAL_ALL">
-			<Text>Reveal All</Text>
+			<Text>Hiển Thị Tất Cả</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_NONE">
-			<Text>None</Text>
+			<Text>Không</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLAYER">
-			<Text>Player</Text>
+			<Text>Người Chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_LEADER">
-			<Text>Leader</Text>
+			<Text>Thủ Lĩnh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CIVILIZATION">
-			<Text>Civilization</Text>
+			<Text>Văn Minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RANDOM_PLAYER">
-			<Text>Random Player</Text>
+			<Text>Người Chơi Ngẫu Nhiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RANDOM_CITY_STATE">
-			<Text>Random City State</Text>
+			<Text>Thành Phồ Ngẫu Nhiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RANDOM">
-			<Text>Random</Text>
+			<Text>Ngẫu Nhiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ANY">
-			<Text>Any</Text>
+			<Text>Bất Kỳ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DEFAULT">
-			<Text>Default</Text>
+			<Text>Mặc Định</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ADVANCED">
-			<Text>Advanced</Text>
+			<Text>Nâng Cao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BASIC">
-			<Text>Basic</Text>
+			<Text>Cơ Bản</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SWITCH_ADV">
-			<Text>Switch to Advanced Mode</Text>
+			<Text>Chuyển qua chế dộ Nâng Cao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SWITCH_BASIC">
-			<Text>Switch to Basic Mode</Text>
+			<Text>Chuyển qua chế độ Cơ Bản</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SWITCH_ADV_POPUP_TITLE">
-			<Text>Switch to World Builder Advanced Mode?</Text>
+			<Text>Chuyển tới chế độ nâng cao trong bộ Xây Dựng Bản Đồ Thế Giới?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SWITCH_ADV_POPUP_TEXT">
-			<Text>Advanced Mode is still in development, and is completely unsupported. We've made this available for advanced modders who would like to experiment with advanced scenario features. Mods created within this mode and loaded into the game could cause Civilization VI to become unstable.</Text>
+			<Text>Chế độ Nâng cao vẫn đang được phát triển và hoàn toàn không được hỗ trợ. Chúng tôi đã cung cấp tính năng này cho những người sửa đổi nâng cao muốn thử nghiệm với các tính năng kịch bản nâng cao. Các bản mod được tạo trong chế độ này và được tải vào trò chơi có thể khiến Civilization VI trở nên mất ổn định.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_IMPORT_UNSUPPORTED_TEXT">
-			<Text>Warning! Importing a map created in an external editor is not officially supported, and could potentially cause issues within WorldBuilder.</Text>
+			<Text>Cảnh báo! Việc nhập bản đồ được tạo trong trình chỉnh sửa bên ngoài không được hỗ trợ chính thức và có thể gây ra sự cố trong bộ Xây Dựng Bản Đồ Thế Giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_SWITCH_BASIC_TOOLTIP">
-			<Text>Switches World Builder back to Basic Mode.  This map will still be saved as Advanced Mode, and edits made in Advanced Mode will remain intact.</Text>
+			<Text>Chuyển bộ Xây Dựng Bản Đồ Thế Giới về Chế độ cơ bản. Bản đồ này sẽ vẫn được lưu dưới dạng Chế độ nâng cao và các chỉnh sửa được thực hiện trong Chế độ nâng cao sẽ vẫn nguyên vẹn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL">
-			<Text>Level</Text>
+			<Text>Cấp Độ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_TRIBE">
-			<Text>Tribe</Text>
+			<Text>Bộ Lạc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_FULL_CIV">
-			<Text>Civilization</Text>
+			<Text>Văn Minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_CITY_STATE">
-			<Text>City-State</Text>
+			<Text>Thành Phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_FREE_CITIES">
-			<Text>Free City</Text>
+			<Text>Thành Phố Tự Do</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_OK">
-			<Text>Placement successful</Text>
+			<Text>Đặt Vị Trí Thành Công</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BLANK_PLACEMENT_OK">
-			<Text>{1_Name} placement successful</Text>
+			<Text>{1_Name} đặt vị trí thành công</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_BLANK_PLACEMENT_ERROR">
-			<Text>{1_Name} placement failed</Text>
+			<Text>{1_Name} đặt vị trí thất bại</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_VIS_SET_OK">
-			<Text>Set this location to be visible to {1_CivName}</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_VIS_SET_OK">
+			<Text>Đặt vị trí này để hiển thị cho {1_CivName}</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_VIS_CLEAR_OK">
-			<Text>Set this location to not be visible to {1_CivName}</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_VIS_CLEAR_OK">
+			<Text>Đặt vị trí này để không hiển thị với {1_CivName}</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_VIS_ERROR">
-			<Text>Unable to set this location's visibility for {1_CivName}</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_VIS_ERROR">
+			<Text>Không thể đặt khả năng hiển thị vị trí này với {1_CivName}</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_PLACEMENT_NEEDED">
-			<Text>This must be in a {1_Name} district</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_PLACEMENT_NEEDED">
+			<Text>Địa chỉ này phải ở đặc khu {1_Name}</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CREATE_DISTRICT">
-			<Text>You must create a {1_Name} district to place this</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_CREATE_DISTRICT">
+			<Text>Bạn phải tạo một đặc khu {1_Name} để đặt cái này</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_CITY_NEEDED">
-			<Text>This must be placed in a city</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_CITY_NEEDED">
+			<Text>Cái này phải được đặt trong một thành phố</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_IN_PROGRESS">
-			<Text>One of these is already in progress</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_IN_PROGRESS">
+			<Text>Một trong số này đã được tiến hành</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ALREADY_EXISTS">
-			<Text>One of these already exists</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_ALREADY_EXISTS">
+			<Text>Một trong số này đã tồn tại</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_ALREADY_EXISTS_LOCATION">
-			<Text>One of these already exists at this location</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_ALREADY_EXISTS_LOCATION">
+			<Text>Một trong những cái này đã tồn tại ở vị trí này </Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_OCCUPIED_BY_ENEMY">
-			<Text>District is occupied by an opponent</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_OCCUPIED_BY_ENEMY">
+			<Text>Đặc Khu bị đối thủ chiếm giữ</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_IS_PILLAGED">
-			<Text>District is pillaged</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_IS_PILLAGED">
+			<Text>Đặc Khu bị cướp phá</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_DISTRICT_REQUIRES">
-			<Text>District requires </Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_DISTRICT_REQUIRES">
+			<Text>Yêu Cầu Đặc Khu </Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_POPULATION">
-			<Text> population</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_POPULATION">
+			<Text> dân số</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_IS_CONTAMINATED">
-			<Text>District is contaminated</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_IS_CONTAMINATED">
+			<Text>Quận bị ô nhiễm </Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_HIGHER_TECH">
-			<Text>The Civ needs the Tech {1_Name} to place this</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_HIGHER_TECH">
+			<Text>Civ cần Công Nghệ {1_Name} để đặt cái này</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_HIGHER_CIVIC">
-			<Text>The Civ needs the Civic {1_Name} to place this</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_HIGHER_CIVIC">
+			<Text>Civ cần Văn Minh {1_Name} để đặt cái này</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_FAILURE_UNKNOWN">
-			<Text>Couldn't place this and unable to determine why</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_FAILURE_UNKNOWN">
+			<Text>Không thể đặt cái này và không xác định được tại sao</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_FAILURE_FEATURE">
-			<Text>Couldn't place a feature here</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_FAILURE_FEATURE">
+			<Text>Không thể để tính năng ở đây</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_FEATURE_ROTATION">
-			<Text>Successfully changed the feature's rotation</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_FEATURE_ROTATION">
+			<Text>Thay đổi tính năng xoay thành công</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_FAILURE_FEATURE_ROTATION">
-			<Text>This feature cannot be placed here in the selected rotation</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_FAILURE_FEATURE_ROTATION">
+			<Text>Tính năng này khổng thể để ở đây với bộ xoay đã chọn</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_STATUS_STARTUP">
-			<Text>Welcome to World Builder!</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_STATUS_STARTUP">
+			<Text>Chào mừng bạn đến với bộ Xây Dựng Bản Đồ Thế Giới!</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_UNIT_PLACED">
-			<Text>Unit placed successfully</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_UNIT_PLACED">
+			<Text>Đã đặt đơn vị thành công</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_UNIT_ERROR">
-			<Text>Couldn't place a {1_Name} at this location</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_UNIT_ERROR">
+			<Text>Không thể đặt {1_Name} tại vị trí này</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_UNIT_ERROR_DISTRICT">
-			<Text>The {1_Name} must be placed in a District</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_UNIT_ERROR_DISTRICT">
+			<Text>{1_Name} phải được đặt ở Đặc Khu</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RIVER_PLACED">
-			<Text>River placed successfully</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_RIVER_PLACED">
+			<Text>Đoạn Sông được đặt thành công</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RIVER_REMOVED">
-			<Text>River removed successfully</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_RIVER_REMOVED">
+			<Text>Đã xóa đoạn sông thành công</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RIVER_ERROR">
-			<Text>Couldn't place a river at this location</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_RIVER_ERROR">
+			<Text>Không thể đặt đoạn sông tại vị trí này</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RIVER_INVALID_LOCATION">
-			<Text>Invalid location for a river segment</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_RIVER_INVALID_LOCATION">
+			<Text>Vị trí không hợp lệ cho một đoạn sông</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RIVER_JOINING_RIVERS">
-			<Text>Can't join two different rivers</Text>
+		<Replace Language = 'en_US' Tag = "LOC_WORLDBUILDER_RIVER_JOINING_RIVERS">
+			<Text>Không thể nối hai con sông khác nhau</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_RIVER_NOT_NEAR_RIVER_OR_WATER">
 			<Text>No joining river or water at this location</Text>
